@@ -24,7 +24,7 @@ class Operations{
 public class Calculator {
     public static void main (String[] args){
         int num1 = 10;
-        String op = "-";
+        String op = "/";
         int num2= 5;
         Operations calc = new Operations();
 //        if(op=="+") {
@@ -62,7 +62,7 @@ public class Calculator {
                 System.out.println(result3);
                 break;
             case("/"):
-                int result4 = calc.subtract(num1, num2);
+                int result4 = calc.divide(num1, num2);
                 System.out.println(result4);
                 break;
         }
