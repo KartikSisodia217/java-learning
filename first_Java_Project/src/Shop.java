@@ -57,7 +57,7 @@ class marketplace{
                 balance -= 700;
                 System.out.println("balance left: " + balance);
                 return ("1 stationary set bought");
-            }
+            }   
             else{
                 System.out.println("balance left: " + balance);
                 return "insufficient balance";
