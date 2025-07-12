@@ -24,30 +24,10 @@ class Operations{
 public class Calculator {
     public static void main (String[] args){
         int num1 = 10;
-        String op = "/";
+        String op = "*";
         int num2= 5;
         Operations calc = new Operations();
-//        if(op=="+") {
-//            int result1 = calc.add(num1, num2);
-//            System.out.println(num1 + " + " + num2 + " = " + result1);
-//        }
-//
-//        else if(op=="-") {
-//            int result2 = calc.subtract(num1, num2);
-//            System.out.println(num1 + " - " + num2 + " = " + result2);
-//        }
-//
-//        else if(op=="*") {
-//            int result3 = calc.multiply(num1, num2);
-//            System.out.println(num1 + " * " + num2 + " = " + result3);
-//        }
-//
-//        else if (op == "/") {
-//            int result4 = calc.divide(num1, num2);
-//            System.out.println(num1 + " / " + num2 + " = " + result4);
-//        }
-//        else
-//            System.out.println("invalid operation");
+
         switch (op){
             case("+"):
                 int result1 = calc.add(num1, num2);
