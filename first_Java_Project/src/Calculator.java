@@ -21,7 +21,7 @@ class Operations{
 
 
 
-public class Calculator {
+public class    Calculator {
     public static void main (String[] args){
         int num1 = 10;
         String op = "*";

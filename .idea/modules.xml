@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA_in_JAVA/DSA_in_JAVA.iml" filepath="$PROJECT_DIR$/DSA_in_JAVA/DSA_in_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_Java_Project/first_Java_Project.iml" filepath="$PROJECT_DIR$/first_Java_Project/first_Java_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-learning.iml" filepath="$PROJECT_DIR$/.idea/java-learning.iml" />
