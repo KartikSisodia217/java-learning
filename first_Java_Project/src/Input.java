@@ -14,7 +14,6 @@ public class Input {
         int age =  input2.nextInt();
         System.out.println("your age is : " + age);
         System.out.println("your age in 10 years will be : " + (age + 10));
-        System.out.println("Thank you!");
-
+        System.out.println("thank you!");
     }
 }
