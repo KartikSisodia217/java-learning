@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class LinearSearch {
     public static void main(String args[]){
-        int[] array = {2,45,11,54,32,22,12,34,32,15,65,98,77,1,94,17};
+        int[] array = {2,4,12,15,16,18,20,34,38,43,64,79,100};
         System.out.println("Enter required target : ");
         Scanner input = new Scanner(System.in);
         int target = input.nextInt();

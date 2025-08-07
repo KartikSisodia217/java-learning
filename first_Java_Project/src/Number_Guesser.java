@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Number_Guesser {
-    public static void main(String args[]){
+    public static void main(String[] a){
         System.out.println("Welcome to the number guesser game!");
         Scanner diff = new Scanner(System.in);
         String difficulty;
