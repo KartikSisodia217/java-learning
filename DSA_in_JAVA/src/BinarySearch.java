@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class BinarySearch {
     public static void main (String[] a){
-        // binary search in an already sorted array
+        // binary search in an already sorted array(ascending order)
         int[] array = {2,4,12,15,16,18,20,34,38,43,64,79,100};
         int start = 0;
         int end = array.length-1;
